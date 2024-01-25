@@ -1,0 +1,154 @@
+*{ padding: 0;
+    margin: 0;
+font-style: italic;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}    
+
+header { background-color: #D9BD9C;}
+
+h1 { 
+    background-color: #D9BD9C;
+    margin: 0em 0.3em 0.5em 0.3em;
+    padding: 0.15em;
+ border-radius: 2em ;
+ display: flex;
+ justify-content: center;
+ border: 2px solid black;
+}
+
+.meerweten {
+    background-color: #D9BD9C;
+    margin: 0.6em 6em 0.5em 6em;
+    padding: 0.15em;
+ border-radius: 2em ;
+ display: flex;
+ justify-content: center;
+ border: 2px solid black;
+}
+
+.meerladen{ 
+    margin-top: 0.2em;
+    margin-left: 0.8em;
+}
+
+.mw1 { background-color: #D9BD9C;
+    margin: 1.5em 4.5em 0.5em 4.5em;
+    padding: 0.15em;
+ border-radius: 2em ;
+ display: flex;
+ justify-content: center;
+ border: 2px solid black; }
+
+ .mw2 { background-color: #D9BD9C;
+    margin: 1.5em 2.3em 0.5em 2.3em;
+    padding: 0.15em;
+ border-radius: 2em ;
+ display: flex;
+ justify-content: center;
+ border: 2px solid black;
+ }
+
+.div1{ 
+    height: fit-content;
+    transform: translateY(0.26em);
+}
+
+.div2{ 
+    height: fit-content;
+    transform: translateY(-0.52em);
+}
+
+.kdiv2{ 
+    height: fit-content;
+    transform: translateY(-0.01em);
+}
+
+.ldiv2{ 
+    height: fit-content;
+    transform: translateY(-1.009em);
+}
+
+.kledingfoto { margin: 0.6em 0em 0em 0.6em;
+}
+
+main { background-color: #8C7158; }
+
+.locatie { text-align: center;
+    background-color: #D9BD9C; 
+    border-radius: 2em; 
+    border: 2px solid black; 
+    margin: 0.5em 3em 1em 3em;
+    padding: 1em 1.3em;
+}
+
+.p1 { 
+    margin: 0;
+ padding: 1em 1.3em;
+ background-color: #D9BD9C;
+ margin-left: 2em;
+ margin-right: 2em;
+ margin-bottom: 1em;
+ border-radius: 2em ;
+ border: 2px solid black;
+ text-align: center;
+ font-size: 18px;
+}
+
+.p2 {
+    font-style: italic;
+    margin: 0.5em 4em 1em 4em;
+    padding-top: 0.5em;
+    background-color: #8C7158;
+    border: 2px solid black;
+    border-radius: 2em;
+    text-align: center;
+    font-size: 18px;
+}
+
+.p3 {
+    font-style: italic;
+    margin: 1.6em 4em 1em 4em;
+    padding-top: 0.5em;
+    background-color: #8C7158;
+    border: 2px solid black;
+    border-radius: 2em;
+    text-align: center;
+    font-size: 18px;
+}
+
+.p4 { 
+    margin: 0;
+ font-style: italic;
+ padding: 1em 1.3em;
+ background-color: #D9BD9C;
+ margin-left: 2em;
+ margin-right: 2em;
+ border-radius: 2em ;
+ border: 2px solid black;
+ text-align: center;
+ font-size: 18px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.homeimg { margin-left: 1.8em;}
+.homelogo { margin-top: 1em;
+    margin-left: 6.8em;}
+
+a { 
+ color: black;
+}
+
+ul {   background-color: #8C7158;
+
+}
+
+nav ul { 
+    display:flex ;
+    list-style: none;
+   justify-content:center;
+   
+}
+
+footer { background-color: #D9BD9C}
